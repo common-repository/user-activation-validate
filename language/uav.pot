@@ -1,0 +1,102 @@
+# Copyright (C) 2020 User Activation Validate
+# This file is distributed under the same license as the User Activation Validate package.
+msgid ""
+msgstr ""
+"Project-Id-Version: User Activation Validate\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/AdminInterface.php:105
+msgid "Inactive Users"
+msgstr ""
+
+#: includes/AdminInterface.php:126
+msgid "File not found"
+msgstr ""
+
+#: includes/AdminInterface.php:130
+msgid "Sorry this content is only for pro version features. Click on the available tabs above."
+msgstr ""
+
+#: includes/Init.php:69
+msgid "Settings"
+msgstr ""
+
+#: includes/Init.php:126, includes/UavTable.php:73
+msgid "Inactive"
+msgstr ""
+
+#: includes/Init.php:128
+msgid "Active"
+msgstr ""
+
+#: includes/SignupHandler.php:104, includes/SignupHandler.php:165
+msgid "Something went wrong. Please try again later"
+msgstr ""
+
+#: includes/SignupHandler.php:213, includes/SignupHandler.php:247
+msgid "User %s - Deleted successfully."
+msgstr ""
+
+#: includes/SignupHandler.php:231
+msgid "User %s - Deadline is not crossed. Warning days is crossed - therefore a warning email has been sent."
+msgstr ""
+
+#: includes/SignupHandler.php:234
+msgid "User %s - Deadline is not crossed. Warning days is also not crossed. Therefore user is not deleted and nor warning email is sent."
+msgstr ""
+
+#: includes/SignupHandler.php:252
+msgid "Something went wrong. No user found. Please try again later"
+msgstr ""
+
+#: includes/UavTable.php:48
+msgid "ID"
+msgstr ""
+
+#: includes/UavTable.php:49
+msgid "Username"
+msgstr ""
+
+#: includes/UavTable.php:50
+msgid "Email Address"
+msgstr ""
+
+#: includes/UavTable.php:51
+msgid "Registered"
+msgstr ""
+
+#: includes/UavTable.php:52
+msgid "Status"
+msgstr ""
+
+#: includes/UavTable.php:53
+msgid "Count"
+msgstr ""
+
+#: includes/UavTable.php:53
+msgid "Counts how many times an activation link is re-sent to user. Default is 1 - assuming WordPress sends the activation link in registration."
+msgstr ""
+
+#: includes/UavTable.php:124
+msgid "Resend Activation Link"
+msgstr ""
+
+#: includes/UavTable.php:125
+msgid "Delete"
+msgstr ""
+
+#: views/users.php:8
+msgid "List of all Inactive Users"
+msgstr ""
+
+#: views/users.php:89
+msgid "Great, no inactive users."
+msgstr ""
